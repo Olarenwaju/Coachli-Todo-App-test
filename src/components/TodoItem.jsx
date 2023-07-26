@@ -77,9 +77,6 @@ const TodoItem = ({ todo, onDelete, onToggleComplete, onEdit }) => {
             )}
 
             
-
-            {/* <button onClick={() => onDelete(todo.id)} className="ml-4 px-3 py-1 rounded bg-red-500 text-white">Delete</button> */}
-
         </div>
     );
 
